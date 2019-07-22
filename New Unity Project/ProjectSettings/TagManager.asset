@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Block
   - pickup
+  - AxisMinusX
+  - AxisX
+  - AxisY
+  - AxisMinusY
   layers:
   - Default
   - TransparentFX
